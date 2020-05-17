@@ -1,6 +1,5 @@
-# flutter_app
-
-A new Flutter application.
+#  The flutter_calculator
+The app is a calculator which can add, subtract, multiply and divide two numbers. 
 
 ## Getting Started
 

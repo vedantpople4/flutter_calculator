@@ -1,5 +1,5 @@
 #  The flutter_calculator
-The app is a calculator which can add, subtract, multiply and divide two numbers. 
+The app is a calculator which can add, subtract, multiply and divide two numbers. There is also a reset button to reset both the inputs.
 
 ## Getting Started
 
